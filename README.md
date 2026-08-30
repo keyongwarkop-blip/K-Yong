@@ -1,2 +1,26 @@
-# K-Yong
-Sistem Kasir warkop keyong
+# KYong V1
+
+Sistem Kasir Warkop Keyong.
+
+## Modul V1
+
+- Login berbasis peran
+- Kasir
+- Dapur
+- Admin
+- Produk & kategori
+- Transaksi & pembayaran
+- Stok
+- Laporan
+- QR Order
+- Printer thermal 58 mm
+- Backup data
+- Android APK
+
+## Arsitektur awal
+
+Android Client → API/Database → Kasir / Dapur / Admin
+
+## Status
+
+Fondasi project KYong V1.
